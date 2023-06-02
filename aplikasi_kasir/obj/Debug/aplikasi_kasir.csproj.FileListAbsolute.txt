@@ -1,0 +1,130 @@
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.exe.config
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.csprojResolveAssemblyReference.cache
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FMenuUtama.resources
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Properties.Resources.resources
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.csproj.GenerateResource.Cache
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.exe
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.pdb
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.exe
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.pdb
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FBarang.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.exe.config
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.exe
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.pdb
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.exe
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.pdb
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.csprojResolveAssemblyReference.cache
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FBarang.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FMenuUtama.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FTransaksi.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Properties.Resources.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.csproj.GenerateResource.Cache
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FLogin.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FCariBarang.resources
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.exe.config
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.exe
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.pdb
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_update\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.exe.config
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_update\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.exe
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_update\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.pdb
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_update\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.exe
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_update\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.pdb
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_update\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.csprojResolveAssemblyReference.cache
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_update\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FBarang.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_update\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FCariBarang.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_update\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.GUI.FKwitansi.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_update\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FLogin.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_update\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FMenuUtama.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_update\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FTransaksi.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_update\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Properties.Resources.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_update\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.csproj.GenerateResource.Cache
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.exe.config
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.exe
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.pdb
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.exe
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.pdb
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.csprojResolveAssemblyReference.cache
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FBarang.resources
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FCariBarang.resources
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.GUI.FKwitansi.resources
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FLogin.resources
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FMenuUtama.resources
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FTransaksi.resources
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Properties.Resources.resources
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.csproj.GenerateResource.Cache
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_23-10\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.exe.config
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_23-10\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.exe
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_23-10\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.pdb
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_23-10\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.csprojResolveAssemblyReference.cache
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_23-10\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.GUI.FAboutProgrammer.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_23-10\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FBarang.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_23-10\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FCariBarang.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_23-10\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FLogin.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_23-10\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FMenuUtama.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_23-10\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FTransaksi.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_23-10\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Properties.Resources.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_23-10\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.csproj.GenerateResource.Cache
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_23-10\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.exe
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_23-10\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.pdb
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_23-10\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.GUI.FKwitansi.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_23-10\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.exe.manifest
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_23-10\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.application
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_23-10\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.exe.manifest
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\aplikasi_kasir_23-10\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.application
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.exe.config
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.exe
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.pdb
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.exe.manifest
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.application
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.exe
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.pdb
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.csprojResolveAssemblyReference.cache
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.GUI.FAboutProgrammer.resources
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FBarang.resources
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FCariBarang.resources
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.GUI.FKwitansi.resources
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FLogin.resources
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FMenuUtama.resources
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FTransaksi.resources
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Properties.Resources.resources
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.csproj.GenerateResource.Cache
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.exe.manifest
+D:\angga yudi kurniawan\.KULIAH\.SEMESTER 5\PPL\Final\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.application
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\versi lengkap\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.exe.config
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\versi lengkap\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.exe
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\versi lengkap\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.pdb
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\versi lengkap\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.exe.manifest
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\versi lengkap\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.application
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\versi lengkap\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.exe
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\versi lengkap\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.pdb
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\versi lengkap\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.csprojResolveAssemblyReference.cache
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\versi lengkap\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.GUI.FAboutProgrammer.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\versi lengkap\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FBarang.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\versi lengkap\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FCariBarang.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\versi lengkap\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.GUI.FKwitansi.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\versi lengkap\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FLogin.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\versi lengkap\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FMenuUtama.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\versi lengkap\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FTransaksi.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\versi lengkap\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Properties.Resources.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\versi lengkap\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.csproj.GenerateResource.Cache
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\versi lengkap\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.exe.manifest
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\versi lengkap\versi lengkap\aplikasi_kasir_22-11\aplikasi_kasir_22-10\aplikasi_kasir\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.application
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\29-11\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.exe.config
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\29-11\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.exe
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\29-11\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.pdb
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\29-11\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.exe.manifest
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\29-11\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.application
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\29-11\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.exe
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\29-11\aplikasi_kasir\aplikasi_kasir\bin\Debug\aplikasi_kasir.pdb
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\29-11\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.csprojResolveAssemblyReference.cache
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\29-11\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.GUI.FAboutProgrammer.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\29-11\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FBarang.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\29-11\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FCariBarang.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\29-11\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.GUI.FKwitansi.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\29-11\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FLogin.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\29-11\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FMenuUtama.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\29-11\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Gui.FTransaksi.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\29-11\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.Properties.Resources.resources
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\29-11\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.csproj.GenerateResource.Cache
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\29-11\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.exe.manifest
+D:\Kuliah\BAHASA PEMROGRAMAN\Visual Studio\29-11\aplikasi_kasir\aplikasi_kasir\obj\Debug\aplikasi_kasir.application
